@@ -21,22 +21,22 @@ const Contact = () => {
               <div className='contact-deatils'>
                 <div className='box'>
                   <FiHeadphones size={30} className='icons' />
-                  <h3>+91-9131663754</h3>
+                  <h3>+91-9406655515</h3>
                   <span>Call us: Mon - Fri 9:00 - 19:00</span>
                 </div>
                 <div className='box'>
                   <IoLocationOutline size={30} className='icons' />
-                  <h3>India</h3>
-                  <span>Annapurna Nagar, Indore, Madhya Pradesh 452009</span>
+                  <h3>Indore, (M.P.) ,India</h3>
+                  <span>87-D Scheme no. 51</span>
                 </div>
                 <div className='box'>
                   <FiHelpCircle size={30} className='icons' />
-                  <h3>info@defaultsprops.com</h3>
+                  <h3>defaultprops@gmail.com</h3>
                   <span>Drop us a line anytime!</span>
                 </div>
                 <div className='box'>
                   <BiUserCircle size={30} className='icons' />
-                  <h3>hr@defaultprops.com</h3>
+                  <h3>kratiknamdev47@gmail.com</h3>
                   <span>Career at default props</span>
                 </div>
               </div>

@@ -34,7 +34,7 @@ const Agency = () => {
               </div>
             </div>
             <div className='right w-40 ml'>
-              <img src='/images/s1.jpg' alt='Img' className='round' width='100%' height='100%' />
+              <img src='/images/JPEG .jpg' alt='Img' className='round' width='100%' height='100%' />
             </div>
           </div>
 

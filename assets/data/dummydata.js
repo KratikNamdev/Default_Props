@@ -108,43 +108,43 @@ export const testimonial = [
 export const showcase = [
   {
     id: 1,
-    title: "Chawk Bazar",
-    cover: "../images/pr2.jpg",
+    title: "PetKing Pharma",
+    cover: "../images/project1.jpg",
     link: "https://royalenterprisesprinters.com/",
     catgeory: "E-Commerce WEBSITE",
   },
   {
     id: 2,
-    title: "Govind Sweets",
+    title: "SnapArt Digital",
     catgeory: "WEBSITE",
-    cover: "../images/pr3.jpg",
+    cover: "../images/project2.jpg",
 
   },
   {
     id: 3,
-    title: "SnapArt Digital",
-    cover: "../images/pr.jpg",
+    title: "Wizulotrendz",
+    cover: "../images/project3.jpg",
 
     catgeory: "WEBSITE & Digital Marketing",
   },
   {
     id: 4,
-    title: "Crepdogcrew",
-    cover: "../images/pr6.jpg",
+    title: "Rudraaksha",
+    cover: "../images/project4.jpg",
 
     catgeory: "E-Commerce WEBSITE	",
   },
   {
     id: 5,
-    title: "Wizulotrendz",
-    cover: "../images/pr5.jpg",
+    title: "Furnituredost",
+    cover: "../images/project5.jpg",
 
     catgeory: "E-Commerce WEBSITE",
   },
   {
     id: 5,
     title: "Royal Enterprises",
-    cover: "../images/pr4.jpg",
+    cover: "../images/project6.jpg",
 
     catgeory: "WEBSITE & Digital Marketing	",
   },
@@ -156,15 +156,24 @@ export const brand = [
   },
   {
     id: 2,
-    cover: "../images/2.png",
+    cover: "../images/4.jpg",
   },
   {
     id: 3,
-    cover: "../images/3.png",
+    cover: "../images/labcuts.jpg",
+  },
+ 
+  {
+    id: 5,
+    cover: "../images/saisha.png",
   },
   {
-    id: 4,
-    cover: "../images/4.png",
+    id: 6,
+    cover: "../images/royal.png",
+  },
+  {
+    id: 7,
+    cover: "../images/parak.png",
   },
   // {
   //   id: 5,

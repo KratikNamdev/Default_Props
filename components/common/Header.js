@@ -27,20 +27,20 @@ const Header = () => {
               Home
             </Link>
             <Link href='/agency' className={activeLink == "/agency" ? "activeLink" : "none"}>
-              Agency
+              About Us
             </Link>
            
             <Link href='/services' className={activeLink == "/services" ? "activeLink" : "none"}>
               Services
             </Link>
             <Link href='/showcase' className={activeLink == "/showcase" ? "activeLink" : "none"}>
-              Showcase
+            Portfolio
             </Link>
            
             <Link href='/contact' className={activeLink == "/contact" ? "activeLink" : "none"}>
               Contact
             </Link>
-            <Link href='/contact' className='button-primary' >
+            <Link href='https://api.whatsapp.com/send?phone=919406655515' className='button-primary' >
               Connect 
             </Link>
             {/* <button className='button-primary'></button> */}

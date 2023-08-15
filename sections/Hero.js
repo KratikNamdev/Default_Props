@@ -53,10 +53,10 @@ const Hero = () => {
       <ShowCase />
       <Brand />
 
-      <div className='text-center'>
+      {/* <div className='text-center'>
         <Title title='Latest news & articles' />
-      </div>
-      <BlogCard />
+      </div> */}
+      {/* <BlogCard /> */}
     </>
   )
 }

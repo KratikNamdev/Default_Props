@@ -62,7 +62,7 @@ const Footer = () => {
               <h3>Connect</h3>
               <div className='connect'>
                 <li>
-                  <Link href='/'>
+                  <Link href='https://www.facebook.com/profile.php?id=100091303867609'>
                     <BsFacebook size={25} />
                   </Link>
                 </li>
@@ -72,7 +72,7 @@ const Footer = () => {
                   </Link>
                 </li>
                 <li>
-                  <Link href='/'>
+                  <Link href='https://www.instagram.com/defaultpropss/'>
                     <AiFillInstagram size={25} />
                   </Link>
                 </li>
